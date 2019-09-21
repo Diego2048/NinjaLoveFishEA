@@ -1,0 +1,2 @@
+cmd
+copy C:\MT4S\Alpari MT4 - 60161965\MQL4\Indicators\NinjaLoveFishSIGNAL\NinjaLoveFishSIGNAL.ex4 C:\Users\zq535\AppData\Roaming\MetaQuotes\Terminal\1DAFD9A7C67DC84FE37EAA1FC1E5CF75\MQL4\Indicators\
